@@ -1,0 +1,21 @@
+{
+  "name": "atm-automated-teller-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "dependencies": {
+    "atm-automated-teller-machine": "^1.0.0",
+    "inquirer": "^9.1.4"
+  }
+}
